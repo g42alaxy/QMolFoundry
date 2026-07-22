@@ -17,7 +17,12 @@
 ![Ruff](https://img.shields.io/badge/Ruff-linted-D7FF64?logo=ruff&logoColor=black)
 ![pytest](https://img.shields.io/badge/pytest-tested-0A9EDC?logo=pytest&logoColor=white)
 
+<br> 
+<a href="PLACE_HOLDER">Hugging Face Space демонстрация</a> 
+<br>
+
 </div>
+
 
 
 ### 1. Что внутри проекта:
