@@ -1,8 +1,6 @@
+import pennylane as qml
 import torch
 import torch.nn as nn
-import torch.nn.functional as F
-import numpy as np
-import pennylane as qml
 
 def QuantumCircut(weights, n_qubits, n_layers, z):
     for qubit in range(n_qubits):
