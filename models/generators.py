@@ -5,7 +5,7 @@ from pathlib import Path
 import numpy as np
 
 from .backends import BACKEND_KEYS, BACKEND_LABELS, get_backend
-from .base import GenerationResult, MoleculeGenerator, compute_metrics, _nanmean
+from .base import GenerationResult, MoleculeGenerator, _nanmean, compute_metrics
 from .decode import logits_to_smiles
 
 _HERE = Path(__file__).parent
