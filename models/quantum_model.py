@@ -2,6 +2,7 @@ import pennylane as qml
 import torch
 import torch.nn as nn
 
+
 def QuantumCircut(weights, n_qubits, n_layers, z):
     for qubit in range(n_qubits):
         qml.RY(z[qubit], wires=[qubit])
