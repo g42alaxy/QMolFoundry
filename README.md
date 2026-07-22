@@ -18,7 +18,7 @@
 ![pytest](https://img.shields.io/badge/pytest-tested-0A9EDC?logo=pytest&logoColor=white)
 
 <br> 
-<a href="PLACE_HOLDER">Hugging Face Space демонстрация</a> 
+<a href="https://huggingface.co/spaces/g42alaxy/QMolFoundry">Hugging Face Space демонстрация</a> 
 <br>
 
 </div>
